@@ -1,4 +1,6 @@
 # Calculator
+<img src="https://github.com/stephenKD/Calculator/blob/master/app/src/main/res/drawable/sample_pic.png?raw=true" width=20% height=20%/>
+
 Make a calculator with "ViewModel" and "LiveData".
 
 ## Step 1
